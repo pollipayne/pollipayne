@@ -1,5 +1,5 @@
 
-## <div align="center"> Hello! I'm Brittney! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div> 
+## <div align="center"> Welcome! I'm Brittney.  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div> 
 <p>
 <a href="https://www.linkedin.com/in/brittney-payne-1824701b7/">
     <img margin-left="auto" margin-right="auto" display="block" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=white&colorB=0A66C2">
@@ -19,7 +19,7 @@
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 
-  <img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+ 
 </p>
 <br />
 <br />
